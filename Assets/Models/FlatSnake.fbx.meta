@@ -1,0 +1,134 @@
+fileFormatVersion: 2
+guid: d4978a6bf461c7b40bf30c3f60b568b8
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Bone_Chin
+    100002: Bone_Head
+    100004: Bone_LowerLip
+    100006: Bone_Neck
+    100008: Bone_Neck10
+    100010: Bone_Neck11
+    100012: Bone_Neck12
+    100014: Bone_Neck13
+    100016: Bone_Neck14
+    100018: Bone_Neck15
+    100020: Bone_Neck16
+    100022: Bone_Neck17
+    100024: Bone_Neck18
+    100026: Bone_Neck19
+    100028: Bone_Neck2
+    100030: Bone_Neck20
+    100032: Bone_Neck21
+    100034: Bone_Neck22
+    100036: Bone_Neck23
+    100038: Bone_Neck24
+    100040: Bone_Neck25
+    100042: Bone_Neck26
+    100044: Bone_Neck27
+    100046: Bone_Neck28
+    100048: Bone_Neck29
+    100050: Bone_Neck3
+    100052: Bone_Neck30
+    100054: Bone_Neck4
+    100056: Bone_Neck5
+    100058: Bone_Neck6
+    100060: Bone_Neck7
+    100062: Bone_Neck8
+    100064: Bone_Neck9
+    100066: Bone_UpperLip
+    100068: //RootNode
+    100070: pCylinder1
+    400000: Bone_Chin
+    400002: Bone_Head
+    400004: Bone_LowerLip
+    400006: Bone_Neck
+    400008: Bone_Neck10
+    400010: Bone_Neck11
+    400012: Bone_Neck12
+    400014: Bone_Neck13
+    400016: Bone_Neck14
+    400018: Bone_Neck15
+    400020: Bone_Neck16
+    400022: Bone_Neck17
+    400024: Bone_Neck18
+    400026: Bone_Neck19
+    400028: Bone_Neck2
+    400030: Bone_Neck20
+    400032: Bone_Neck21
+    400034: Bone_Neck22
+    400036: Bone_Neck23
+    400038: Bone_Neck24
+    400040: Bone_Neck25
+    400042: Bone_Neck26
+    400044: Bone_Neck27
+    400046: Bone_Neck28
+    400048: Bone_Neck29
+    400050: Bone_Neck3
+    400052: Bone_Neck30
+    400054: Bone_Neck4
+    400056: Bone_Neck5
+    400058: Bone_Neck6
+    400060: Bone_Neck7
+    400062: Bone_Neck8
+    400064: Bone_Neck9
+    400066: Bone_UpperLip
+    400068: //RootNode
+    400070: pCylinder1
+    4300000: pCylinder1
+    9500000: //RootNode
+    13700000: pCylinder1
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: Bone_Neck
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
