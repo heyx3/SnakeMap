@@ -37,19 +37,25 @@ Icon
 
 #Unity files
 *.cs.meta
-Unity project/Library/metadata/*
-Unity project/Temp/*
-Unity project/obj/Debug/*
-Unity project/Library/ShaderCache/*
-Unity project/Library/shadercompiler-1.log
-Unity project/Library/ShaderCache.db
-Unity project/Library/assetDatabase3
-Unity project/Library/CurrentLayout.dwlt
-Unity project/Library/expandedItems
-Unity project/Library/guidmapper
-Unity project/Library/ScriptAssemblies/*
-Unity project/Unity project-csharp.sln
-Unity project/Unity project.sln
-Unity project/Unity project.v12.suo
-Unity project/Library/InspectorExpandedItems.asset
-Unity project/Unity project-csharp.v12.suo
+*.dll.meta
+Library/metadata/*
+Temp/*
+obj/Debug/*
+Library/ShaderCache/*
+Library/shadercompiler-1.log
+Library/ShaderCache.db
+Library/assetDatabase3
+Library/AssetServerCacheV3
+Library/AssetImportState
+Library/AssetVersioning.db
+Library/AnnotationManager
+Library/CurrentLayout.dwlt
+Library/expandedItems
+Library/guidmapper
+Library/ScriptAssemblies/*
+*.sln
+*.csproj
+*.sln
+*.v12.suo
+Library/InspectorExpandedItems.asset
+*.v12.suo
