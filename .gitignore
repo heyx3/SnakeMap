@@ -25,9 +25,8 @@ $RECYCLE.BIN/
 .AppleDouble
 .LSOverride
 
-# Icon must end with two \r
-Icon
-
+# Icon must ends with two \r.
+Icon
 # Thumbnails
 ._*
 
@@ -35,9 +34,22 @@ Icon
 .Spotlight-V100
 .Trashes
 
-# Directories potentially created on remote AFP share
-.AppleDB
-.AppleDesktop
-Network Trash Folder
-Temporary Items
-.apdisk
+
+#Unity files
+*.cs.meta
+Unity project/Library/metadata/*
+Unity project/Temp/*
+Unity project/obj/Debug/*
+Unity project/Library/ShaderCache/*
+Unity project/Library/shadercompiler-1.log
+Unity project/Library/ShaderCache.db
+Unity project/Library/assetDatabase3
+Unity project/Library/CurrentLayout.dwlt
+Unity project/Library/expandedItems
+Unity project/Library/guidmapper
+Unity project/Library/ScriptAssemblies/*
+Unity project/Unity project-csharp.sln
+Unity project/Unity project.sln
+Unity project/Unity project.v12.suo
+Unity project/Library/InspectorExpandedItems.asset
+Unity project/Unity project-csharp.v12.suo
